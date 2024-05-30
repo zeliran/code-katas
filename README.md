@@ -114,7 +114,7 @@ Search / Filter solutions [here](https://code-katas.now.sh/)
 
 [Watch on YouTube](https://youtu.be/1WxoJpic-wA)
 
-- [Pascal's Triangle](./episode_48/pascals-triangle.js) - [8 kyu](https://www.codewars.com/kata/pascals-triangle)
+- [Pascal's Triangle](./episode_48/pascals-triangle.js) - [6 kyu](https://www.codewars.com/kata/pascals-triangle)
 
 ## [Episode 047](./episode_47)
 
